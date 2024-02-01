@@ -47,3 +47,7 @@ In your new repository, you may then freely edit the content sections of our pro
 In each protocol template, we begin with a table of metadata fields that will help us sort and organize protocols. In the future, this will enable us to create a better mechanism for discovering new protocols.
 
 Please fill out the MIOP terms and use this document as a guide (included in the template repository): [MIOP_definition.md](https://github.com/BeBOP-OBON/0_protocol_collection_template/blob/main/MIOP_definition.md)
+
+## Contribute!
+
+If you have any feedback or suggestions about our templates please post an issue on the [template repository](https://github.com/BeBOP-OBON/0_protocol_collection_template/issues) or about MIOP fields in our [miop repository](https://github.com/BeBOP-OBON/miop/issues). We also welcome contributions of new types of templates to our collection. Our goal is to cover protocols ranging from study initiation to data sharing, across an entire omics [workflow](https://www.frontiersin.org/files/Articles/758694/fmars-08-758694-HTML-r1/image_m/fmars-08-758694-g001.jpg).
