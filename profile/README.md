@@ -12,6 +12,8 @@ We aim to achieve increased comparability between Biomolecular Ocean Practices (
 
 # How to get started sharing protocols:
 
+> You can share your protocols on Github or we also have a location to share protocols on protocols.io: https://www.protocols.io/workspaces/better-biomolecular-ocean-practices-bebop
+
 ## Create your own repository from our template
 
 Navigate to our [template repository](https://github.com/BeBOP-OBON/0_protocol_collection_template)
