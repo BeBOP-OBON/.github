@@ -3,7 +3,7 @@
 Better Biomolecular Ocean Practices (BeBOP) is a UN Ocean Decade project under the [Ocean Biomolecular Observing Network (OBON)](https://www.obon-ocean.org/) programme. This project developed out of the [Task Team 21-03: Omics/eDNA Protocol Management](https://www.oceanbestpractices.org/about/task-teams/obps-task-team-21-03-omics-edna-protocol-management/) under the Ocean Best Practices System.
 
 ## Aim and Scope
-We aim to achieve increased comparability between Biomolecular Ocean Practices (BOPs). Currently, the wealth of ocean biomolecular practices is shared in diverse formats (e.g. text in publications, pdfs, ...). To better compare differences in practices and integrate data generated using BOPs, we offer means of standardization via the development of the templates found in this repository as well as standardized metadata describing protocols (Minimum Information about an Omics Protocol or "MIOP"). These will allow humans to more efficiently compare protocols at scale.
+We aim to achieve increased comparability between Biomolecular Ocean Practices (BOPs). Currently, the wealth of ocean biomolecular practices is shared in diverse formats (e.g. text in publications, pdfs, ...). To better compare differences in practices and integrate data generated using BOPs, we developed markdown templates as well as standardized metadata describing protocols (called Minimum Information about an Omics Protocol or "MIOP"). Our goal is to create machine-readable documents where changes can be tracked and linked to associated datasets. These tools will also allow us to compare protocols at scale and make protocols more findable.
 
 > [!NOTE]
 > Our 2021 paper describes our overall vision and organizational principles:
@@ -20,9 +20,8 @@ On the main page of this repository:
 1. Above the file list, click **Use this template**.
 2. Select **Create a new repository**.
 3. Choose repository ownership (select **BeBOP-OBON** to be featured on the BeBOP page) and name your repository after your project or institution
-
+- *You can always link your repository later to the BeBOP-OBON github space if you would like to work on protocols within your own github location first.*
 > [!NOTE]
-> *You can always link your repository later to the BeBOP-OBON github space if you would like to work on protocols within your own github location first.*
 > 
 > For further guidance on how to create your own repository from this template please see [here](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template).
 
