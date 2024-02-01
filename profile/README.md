@@ -1,8 +1,8 @@
-## Welcome to Better Biomolecular Ocean Practices (BeBOP)! 👋
+# Welcome to Better Biomolecular Ocean Practices (BeBOP)! 👋
 
 Better Biomolecular Ocean Practices (BeBOP) is a UN Ocean Decade project under the [Ocean Biomolecular Observing Network (OBON)](https://www.obon-ocean.org/) programme. This project developed out of the [Task Team 21-03: Omics/eDNA Protocol Management](https://www.oceanbestpractices.org/about/task-teams/obps-task-team-21-03-omics-edna-protocol-management/) under the Ocean Best Practices System.
 
-### Aim and Scope
+## Aim and Scope
 We aim to achieve increased comparability between Biomolecular Ocean Practices (BOPs). Currently, the wealth of ocean biomolecular practices is shared in diverse formats (e.g. text in publications, pdfs, ...). To better compare differences in practices and integrate data generated using BOPs, we offer means of standardization via the development of the templates found in this repository as well as standardized metadata describing protocols (Minimum Information about an Omics Protocol or "MIOP"). These will allow humans to more efficiently compare protocols at scale.
 
 > [!NOTE]
@@ -10,9 +10,9 @@ We aim to achieve increased comparability between Biomolecular Ocean Practices (
 > 
 > Samuel, Robyn M., et al. "Toward a global public repository of community protocols to encourage best practices in biomolecular ocean observing and research." Frontiers in Marine Science 8 (2021): 758694. [https://doi.org/10.3389/fmars.2021.758694](https://doi.org/10.3389/fmars.2021.758694)
 
-## How to get started sharing protocols:
+# How to get started sharing protocols:
 
-### Create your own repository from our template
+## Create your own repository from our template
 
 Navigate to our [template repository](https://github.com/BeBOP-OBON/0_protocol_collection_template)
 
@@ -26,7 +26,7 @@ On the main page of this repository:
 > 
 > For further guidance on how to create your own repository from this template please see [here](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template).
 
-### Editing the protocol templates
+## Editing the protocol templates
 
 In your new repository, you may then freely edit the content sections of our protocol templates in markdown. 
 
@@ -42,8 +42,8 @@ In your new repository, you may then freely edit the content sections of our pro
 > - [Visiual Studio Code](https://code.visualstudio.com/Docs/languages/markdown)
 > - [MacDown](https://macdown.uranusjr.com), open source Markdown editor for macOS
 
-### Fill out MIOP fields
----
+## Fill out MIOP fields
+
 In each protocol template, we begin with a table of metadata fields that will help us sort and organize protocols. In the future, this will enable us to create a better mechanism for discovering new protocols.
 
 Please fill out the MIOP terms and use this document as a guide (included in the template repository): [MIOP_definition.md](https://github.com/BeBOP-OBON/0_protocol_collection_template/blob/main/MIOP_definition.md)
