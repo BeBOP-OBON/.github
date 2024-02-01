@@ -1,4 +1,4 @@
-# Welcome to Better Biomolecular Ocean Practices (BeBOP)! 👋
+# Welcome to Better Biomolecular Ocean Practices (BeBOP!) 👋
 
 Better Biomolecular Ocean Practices (BeBOP) is a UN Ocean Decade project under the [Ocean Biomolecular Observing Network (OBON)](https://www.obon-ocean.org/) programme. This project developed out of the [Task Team 21-03: Omics/eDNA Protocol Management](https://www.oceanbestpractices.org/about/task-teams/obps-task-team-21-03-omics-edna-protocol-management/) under the Ocean Best Practices System.
 
