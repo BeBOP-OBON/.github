@@ -47,6 +47,11 @@ You'll need detailed information about the exact protocol followed, usually foun
 
 Choose from one of our already created template files which currently cover steps from sampling, DNA extraction, PCR, or sequencing in our [template repository](https://github.com/BeBOP-OBON/0_protocol_collection_template). We are continuing to create more templates for different protocol types and if your protocol is not currently covered, then we would  *highly*  appreciate it if you would like to adapt one of our templates to your new purpose and share it. You can suggest changes or pose issues with templates in our [template repository issue tracker](https://github.com/BeBOP-OBON/0_protocol_collection_template/issues).
 
+- [sampling](https://github.com/BeBOP-OBON/0_protocol_collection_template/blob/main/protocol_template_sampling.md)
+- [DNA extraction](https://github.com/BeBOP-OBON/0_protocol_collection_template/blob/main/protocol_template_DNA_extraction.md)
+- [PCR](https://github.com/BeBOP-OBON/0_protocol_collection_template/blob/main/protocol_template_PCR.md)
+- [sequencing](https://github.com/BeBOP-OBON/0_protocol_collection_template/blob/main/protocol_template_sequencing.md)
+
 ### Step 3: Move content into markdown file
 
 Here is where the rubber hits the road. Start copying and pasting text from your SOP into the appropriate parts of the template file. We recommend using a markdown editor that will help you immediately preview what your text formating looks like with markdown formating.
