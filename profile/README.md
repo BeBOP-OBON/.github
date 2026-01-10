@@ -9,11 +9,13 @@ Currently, the wealth of ocean biomolecular practices is shared in diverse forma
 > Our 2021 paper describes our overall vision and organizational principles:
 > 
 > Samuel, Robyn M., et al. "Toward a global public repository of community protocols to encourage best practices in biomolecular ocean observing and research." Frontiers in Marine Science 8 (2021): 758694. [https://doi.org/10.3389/fmars.2021.758694](https://doi.org/10.3389/fmars.2021.758694)
+>
+> A paper describing BeBOP protocols in detail is coming in 2026.
 
 ## How to get started sharing protocols:
 
-> #### Updates 04/15/25
-> We have now updated our BeBOP templates to include relevant metadata from the [FAIRe](https://fair-edna.github.io/index.html) standard.
+> [!IMPORTANT]
+> As of April 2025, we have updated our BeBOP templates to include relevant metadata from the [FAIRe](https://fair-edna.github.io/index.html) standard.
 > 
 > We've updated our guidance on how to use our templates with GitHub and now recommend users within their own github lab or personal space:
 > - create a seperate repository for each protocol allowing:
