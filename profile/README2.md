@@ -12,8 +12,6 @@ The initiative bridges the gap between traditional narrative protocols and moder
 2.  **Structured Metadata**: Every protocol includes a YAML header containing terms from the **Minimum Information about an Omics Protocol (MIOP)** and domain-specific checklists like **FAIR eDNA (FAIRe)**. Values for each term specific for the protocol are added by the user, enabling machine-based tracking of protocol data.
 3.  **Permanent Archiving**: Protocols are hosted on **GitHub** and archived on **Zenodo**, which assigns a Digital Object Identifier (DOI) to ensure long-term accessibility and precise citation. High-level versioning is managed via GitHub Releases, which mints version-specific DOIs for each release in addition to the original concept DOI for the repository.
 
----
-
 ## 🚀 How to Create a BeBOP Protocol
 
 ### 1. Repository Setup
@@ -55,8 +53,6 @@ To make your protocol citeable:
 * **Version DOI vs. Concept DOI:** Always use the unique version DOI when citing protocols in publications to ensure long-term reproducibility of the exact method used.
 * **Protocol Lists:** Organizations are encouraged to maintain a parent repository or README file that links to your different protocol documents. This allows new users to see the collection of protocols in use by your group, and easily navigate across the different repositories.
 * **GitHub Topic:** We recommend using the GitHub topic "obon-bebop" to make them findable across GitHub.
-
----
 
 ## 🔬 Why Use BeBOP?
 
