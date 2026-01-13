@@ -12,6 +12,11 @@ Currently, the wealth of ocean biomolecular practices is shared in diverse forma
 >
 > A paper describing BeBOP protocols in detail is coming in 2026.
 
+## Basic BeBOP template structure:
+<img  height="500" alt="Fig2" src="https://github.com/user-attachments/assets/37a13c18-1c43-4191-91fc-48ea729e8af3" />
+
+Each BeBOP protocol has a beginning section (YAML frontmatter) that includes important metadata describing the protocol ("MIOP" for omics protocols) or describing the dataset ("FAIRe" for eDNA data). Then each section of the protocol is described in detail in markdown.
+
 ## How to get started sharing protocols:
 
 > [!IMPORTANT]
