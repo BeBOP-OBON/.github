@@ -2,10 +2,9 @@
 
 Better Biomolecular Ocean Practices ([BeBOP](https://oceandecade.org/actions/better-biomolecular-ocean-practices/)) is a UN Ocean Decade project under the [Ocean Biomolecular Observing Network (OBON)](https://www.obon-ocean.org/) programme. This project developed out of the [Task Team 21-03: Omics/eDNA Protocol Management](https://www.oceanbestpractices.org/about/task-teams/obps-task-team-21-03-omics-edna-protocol-management/) under the Ocean Best Practices System.
 
-## Aim and Scope
-Currently, the wealth of ocean biomolecular practices is shared in diverse formats (e.g. text in publications, pdfs, ...). To better compare differences in practices and integrate data generated using biomolecular protocols, we developed markdown templates as well as standardized metadata describing protocols (called Minimum Information about an Omics Protocol or "MIOP"). Our goal is to create machine-readable protocol documents where changes can be tracked, assigned DOIs, and linked to associated datasets. These tools will also allow us to compare protocols at scale and make protocols more findable.
+## Knowledge of detailed protocols is essential to the interpretation of omics data
+Currently, the wealth of ocean biomolecular practices is shared in diverse formats (e.g. text in publications or pdfs). To better compare differences in practices and integrate data generated using biomolecular protocols, we developed markdown templates which incorporate a detailed description of methods alongside important metadata describing both the protocol itself (called Minimum Information about an Omics Protocol or "MIOP") and the eDNA data type (following [FAIRe](https://fair-edna.github.io/index.html) guidelines). Our goal is to create machine-readable protocol documents where changes can be tracked, assigned DOIs, and linked to associated datasets. These tools will also allow us to compare protocols at scale, make protocols more findable, and facilitate linking critical metadata with published datasets.
 
-> [!NOTE]
 > Our 2021 paper describes our overall vision and organizational principles:
 > 
 > Samuel, Robyn M., et al. "Toward a global public repository of community protocols to encourage best practices in biomolecular ocean observing and research." Frontiers in Marine Science 8 (2021): 758694. [https://doi.org/10.3389/fmars.2021.758694](https://doi.org/10.3389/fmars.2021.758694)
@@ -15,14 +14,13 @@ Currently, the wealth of ocean biomolecular practices is shared in diverse forma
 ## Basic BeBOP template structure:
 <img  height="500" alt="Fig2" src="https://github.com/user-attachments/assets/37a13c18-1c43-4191-91fc-48ea729e8af3" />
 
-Each BeBOP protocol has a beginning section (YAML frontmatter) that includes important metadata describing the protocol ("MIOP" for omics protocols) or describing the dataset ("FAIRe" for eDNA data). Then each section of the protocol is described in detail in markdown.
+Each BeBOP protocol has a beginning section (YAML frontmatter) that includes important metadata describing the protocol ("MIOP" for omics protocols) or describing the dataset ("FAIRe" for eDNA data). Then each section of the protocol is described in detail in markdown. These documents are hosted on Github, allowing for version control and DOI creation through Zenodo.
 
 ## How to get started sharing protocols:
 
-> [!IMPORTANT]
 > As of April 2025, we have updated our BeBOP templates to include relevant metadata from the [FAIRe](https://fair-edna.github.io/index.html) standard.
 > 
-> We've updated our guidance on how to use our templates with GitHub and now recommend users within their own github lab or personal space:
+> We recommend users within their own github lab or personal space:
 > - create a seperate repository for each protocol allowing:
 >   - DOI creation for each protocol through [Zenodo](https://docs.github.com/en/repositories/archiving-a-github-repository/referencing-and-citing-content)
 >  - Then create a README file which links to each of their protocol documents (markdown files)
@@ -37,6 +35,7 @@ Each BeBOP protocol has a beginning section (YAML frontmatter) that includes imp
 1. Gather your internal SOP/protocol information
 2. Navigate to our [template repository](https://github.com/BeBOP-OBON/0_protocol_collection_template) and choose an appropriate protocol template
    - download markdown file (e.g. "protocol_template_DNA_extraction.md")
+   - *Alternatively, find a similar published BeBOP protocol as a starting point to edit.*
 3. Move major content into appropriate template file
    - many markdown editors are available that easily allow you to visualize your markdown files as you edit them
 4. Fine-tune details not included in your internal SOP
@@ -58,6 +57,8 @@ Choose from one of our already created template files which currently cover step
 - [DNA extraction](https://github.com/BeBOP-OBON/0_protocol_collection_template/blob/main/protocol_template_DNA_extraction.md)
 - [PCR](https://github.com/BeBOP-OBON/0_protocol_collection_template/blob/main/protocol_template_PCR.md)
 - [sequencing](https://github.com/BeBOP-OBON/0_protocol_collection_template/blob/main/protocol_template_sequencing.md)
+
+*Alternatively, it can be a great option to find a similar published BeBOP protocol as a starting point to edit. Some protocols (such as PCR protocols using the same primer set) may already be highly similar.*
 
 ### Step 3: Move content into markdown file
 
@@ -81,7 +82,7 @@ Some needed information will likely be missing from your internal SOP. We decide
 
 ### Step 5: Create GitHub repository
 
-Now that you have your edited markdown file, you can create a new GitHub repository for just that protocol. If you are part of an organization or lab you may want to create all your protocol repositories within that organization. Please be specific in your repository name; we recommend something similar to "MyInstitution_Lab/Group_DetailedName_Protocol".
+Now that you have your edited markdown file, you can create a new GitHub repository for just that protocol. If you are part of an organization or lab you may want to create all your protocol repositories within that organization. Please be specific in your repository name; we recommend something similar to "MyInstitution_Lab/Group_DetailedName_Protocol". In order to create a DOI, your repository must be public.
 
 ### Step 6: Generate DOI
 
