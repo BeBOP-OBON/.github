@@ -21,8 +21,7 @@ Each BeBOP protocol has a beginning section (YAML frontmatter) that includes imp
 > BeBOP templates include relevant metadata from the [FAIRe](https://fair-edna.github.io/index.html) guidelines.
 > 
 > We recommend users within their own github lab or personal space:
->  - create a seperate repository for each protocol allowing:
->  - DOI creation for each protocol through [Zenodo](https://docs.github.com/en/repositories/archiving-a-github-repository/referencing-and-citing-content)
+>  - Create a seperate repository for each protocol allowing DOI creation for each protocol through [Zenodo](https://docs.github.com/en/repositories/archiving-a-github-repository/referencing-and-citing-content)
 >  - Then create a README file which links to each of their protocol documents (markdown files)
 >  - Please also add the github topic "[obon-bebop](https://github.com/topics/obon-bebop)" to make them findable on github
 >
