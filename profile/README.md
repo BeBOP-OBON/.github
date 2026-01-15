@@ -79,6 +79,9 @@ Here is where the rubber hits the road. Start copying and pasting text from your
 
 Some needed information will likely be missing from your internal SOP. We decided to include details like equipment lists to enable anyone to easily reproduce your protocol (and see exactly what it requires). We also added metadata from both MIOP and FAIRe standards which describe important details about your protocol. This will both allow us to make protocol documents easier to find, sort, and discover as well as allow tools to be built that can pull important metadata (based on the protocols you used) and allow easier submission of datasets to standard biodiversity repositories like OBIS or GBIF. The metadata section at the beginning of the template enhances the machine-readability of our templates, allowing these tools to be built.
 
+>- Download FAIRe metadata checklist of terms and definitions here: https://fair-edna.github.io/download.html
+>- List of common eDNA metabarcoding primers with accompaning FAIRe metadata compiled by NOAA: https://github.com/NOAA-Omics/noaa-omics-metabarcoding-assays
+
 ### Step 5: Create GitHub repository
 
 Now that you have your edited markdown file, you can create a new GitHub repository for just that protocol. If you are part of an organization or lab you may want to create all your protocol repositories within that organization. Please be specific in your repository name; we recommend something similar to "MyInstitution_Lab/Group_DetailedName_Protocol". In order to create a DOI, your repository must be public.
