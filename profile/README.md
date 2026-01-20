@@ -92,7 +92,7 @@ Through Zenodo, GitHub has an easy path to create a DOI for any repository. This
 
 GitHub has good documentation [here](https://docs.github.com/en/repositories/archiving-a-github-repository/referencing-and-citing-content) on how to proceed with Zenodo
 
-### Bonus: create README file overview of all your protocols
+### Bonus: Create README file overview of all your protocols
 
 For the superorganized, we highly recommend creating a README file through GitHub which links to your different protocol documents. This allows new users to see the collection of protocols in use by your group, and easily navigate across the different repositories. We also recommend using the GitHub topic "[obon-bebop](https://github.com/topics/obon-bebop)" to make them findable across GitHub.
 
@@ -100,4 +100,4 @@ There are great examples from NOAA AOML [here](https://github.com/aomlomics/prot
 
 ## Contribute!
 
-If you have any feedback or suggestions about our templates please post an issue on the [template repository](https://github.com/BeBOP-OBON/0_protocol_collection_template/issues) or about MIOP fields in our [miop repository](https://github.com/BeBOP-OBON/miop/issues). We also welcome contributions of new types of templates to our collection. Our goal is to cover protocols ranging from study initiation to data sharing, across an entire omics [workflow](https://www.frontiersin.org/files/Articles/758694/fmars-08-758694-HTML-r1/image_m/fmars-08-758694-g001.jpg).
+If you have any feedback or suggestions about our templates please post an issue on the [template repository](https://github.com/BeBOP-OBON/0_protocol_collection_template/issues) or about MIOP fields in our [MIOP repository](https://github.com/BeBOP-OBON/miop/issues). We also welcome contributions of new types of templates to our collection. Our goal is to cover protocols ranging from study initiation to data sharing, across an entire omics [workflow](https://www.frontiersin.org/files/Articles/758694/fmars-08-758694-HTML-r1/image_m/fmars-08-758694-g001.jpg).
