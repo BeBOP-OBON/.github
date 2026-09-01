@@ -18,10 +18,16 @@ Each BeBOP protocol has a beginning section (YAML frontmatter) that includes imp
 
 ## How to get started sharing protocols:
 
+Here is a great PDF overview tutorial written by Shannon Brown and Han Weinrich (NOAA PMEL) that describes how to get started making your own BeBOP protocol:
+
+[How to Make a BeBOP Tutorial.pdf](<assets/How to Make a BeBOP Tutorial.pdf>)
+
+We also include an overview of steps below:
+
 > BeBOP templates include relevant metadata from the [FAIRe](https://fair-edna.github.io/index.html) guidelines.
 > 
 > We recommend users within their own github lab or personal space:
->  - Create a seperate repository for each protocol allowing DOI creation for each protocol through [Zenodo](https://docs.github.com/en/repositories/archiving-a-github-repository/referencing-and-citing-content)
+>  - Create a separate repository for each protocol allowing DOI creation for each protocol through [Zenodo](https://docs.github.com/en/repositories/archiving-a-github-repository/referencing-and-citing-content)
 >  - Then create a README file which links to each of their protocol documents (markdown files)
 >  - Please also add the github topic "[obon-bebop](https://github.com/topics/obon-bebop)" to make them findable on github
 >
