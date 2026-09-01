@@ -18,7 +18,8 @@ Each BeBOP protocol has a beginning section (YAML frontmatter) that includes imp
 
 ## How to get started sharing protocols:
 
-Here is a great PDF overview tutorial written by Shannon Brown and Han Weinrich (NOAA PMEL) that describes how to get started making your own BeBOP protocol:
+### PDF of BeBOP Tutorial:
+Here is a great overview tutorial written by Shannon Brown and Han Weinrich (NOAA PMEL) that describes how to get started making your own BeBOP protocol:
 
 [How to Make a BeBOP Tutorial.pdf](<assets/How to Make a BeBOP Tutorial.pdf>)
 
